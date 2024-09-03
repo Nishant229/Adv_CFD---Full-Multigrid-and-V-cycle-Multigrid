@@ -1,0 +1,13 @@
+***** MultiGrid parameters *****
+
+// Grid Size
+	 n = 512
+
+// Jacobi Weight
+	 w = 0.666667
+	
+// Other constants
+	 neu = 2
+	 sigma = 1
+	 k = 1
+	 C = 10.869604 ( C = (pi*k)^2 + sigma )
